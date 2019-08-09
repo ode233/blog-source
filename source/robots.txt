@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /CNAME
+Disallow: /README
+
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+Allow: /css/
+Allow: /images/
+Allow: /js/
+Allow: /lib/
+
+Sitemap: http://ody123.github.io/sitemap.xml
